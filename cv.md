@@ -6,6 +6,7 @@
    GitHub:[Dalonna456][https://github.com/Dalonna456]
 
    ##**About me**##
+   
    I am educated as a musician and as a psychologist.
    I was working as a musician on Cruise Lines for 5 years
    ****
@@ -34,6 +35,7 @@
    *SPSS 5
 
    ##**Education**##
+   
    Moscow city psychology-pedagogical university (MGPPU)
    Master of Psychology 2010 - 2012
    ****
